@@ -1,4 +1,4 @@
-![pi_controller_real](https://github.com/parisa-a-tavana/Home-Temperature-Control/assets/104492285/c981cce7-28c5-4f17-8975-8fb610483db2)# Home-Temperature-Control
+# Home-Temperature-Control
 <br>
 In this project, we want to control the indoor temperature of which is effected by the outdoor temperature and the heater.
 <br>
@@ -55,10 +55,12 @@ We design a PI controller that sets T=26 C in less that 40s without overshoot.
 <br>
 ![Image 8](images/pi_controller.jpg)
 <br>
+We also impliment the controller using LM324. 
+<br>
 ![Image 9](images/pi_controller_real.jpg)
 <br>
 ![Image 10](images/pi_controller_diagram.jpg)
 <br>
 ![Image 11](images/pi_controller_diagram_vout.jpg)
 <br>
-We also impliment the controller using LM324. 
+
